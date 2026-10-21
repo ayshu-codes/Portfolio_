@@ -1955,6 +1955,10 @@ gap:30px;
 
 }
 
+.stats section{
+    margin-top: 10px;;
+}
+
 .stat-card{
 
 background:#111;
